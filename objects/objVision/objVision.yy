@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "objVision",
-  "spriteId": null,
+  "spriteId": {
+    "name": "sprVision",
+    "path": "sprites/sprVision/sprVision.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
