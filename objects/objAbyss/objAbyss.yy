@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "objFallingDarkness",
-  "spriteId": {
+  "name": "objAbyss",
+  "spriteId": null,
+  "solid": true,
+  "visible": true,
+  "managed": true,
+  "spriteMaskId": {
     "name": "sprFallingDarkness",
     "path": "sprites/sprFallingDarkness/sprFallingDarkness.yy",
   },
-  "solid": false,
-  "visible": true,
-  "managed": true,
-  "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
@@ -24,11 +24,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objAbyss","path":"objects/objAbyss/objAbyss.yy",},},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
