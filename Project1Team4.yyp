@@ -3,7 +3,13 @@
   "resourceVersion": "1.6",
   "name": "Project1Team4",
   "resources": [
-    {"id":{"name":"testSprite","path":"sprites/testSprite/testSprite.yy",},"order":0,},
+    {"id":{"name":"objVision","path":"objects/objVision/objVision.yy",},"order":3,},
+    {"id":{"name":"sprBackground","path":"sprites/sprBackground/sprBackground.yy",},"order":2,},
+    {"id":{"name":"sprFallingDarkness","path":"sprites/sprFallingDarkness/sprFallingDarkness.yy",},"order":4,},
+    {"id":{"name":"sprPlayer","path":"sprites/sprPlayer/sprPlayer.yy",},"order":3,},
+    {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":1,},
+    {"id":{"name":"sprVision","path":"sprites/sprVision/sprVision.yy",},"order":5,},
+    {"id":{"name":"objFallingDarkness","path":"objects/objFallingDarkness/objFallingDarkness.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
