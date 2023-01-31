@@ -6,7 +6,7 @@
     "name": "sprFallingDarkness",
     "path": "sprites/sprFallingDarkness/sprFallingDarkness.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
