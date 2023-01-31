@@ -10,6 +10,7 @@
     {"id":{"name":"objAbyss","path":"objects/objAbyss/objAbyss.yy",},"order":4,},
     {"id":{"name":"objDarknessSpawner","path":"objects/objDarknessSpawner/objDarknessSpawner.yy",},"order":5,},
     {"id":{"name":"objBigBackground","path":"objects/objBigBackground/objBigBackground.yy",},"order":7,},
+    {"id":{"name":"powerupOrb","path":"sprites/powerupOrb/powerupOrb.yy",},"order":8,},
     {"id":{"name":"sprBigBackground","path":"sprites/sprBigBackground/sprBigBackground.yy",},"order":0,},
     {"id":{"name":"sprSmallBackground","path":"sprites/sprSmallBackground/sprSmallBackground.yy",},"order":5,},
     {"id":{"name":"MainGame","path":"rooms/MainGame/MainGame.yy",},"order":1,},
