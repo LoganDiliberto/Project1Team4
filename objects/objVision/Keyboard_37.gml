@@ -4,8 +4,15 @@
 /// @DnDArgument : "direction" "180"
 direction = 180;
 
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 3015FCE3
+/// @DnDArgument : "value" "6"
+/// @DnDArgument : "var" "global.visionSpeed"
+global.visionSpeed = 6;
+
 /// @DnDAction : YoYo Games.Movement.Set_Speed
 /// @DnDVersion : 1
 /// @DnDHash : 5A6171AE
-/// @DnDArgument : "speed" "4"
-speed = 4;
+/// @DnDArgument : "speed" "6"
+speed = 6;
