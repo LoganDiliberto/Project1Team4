@@ -11,3 +11,10 @@ var temp = global.lightlevel;
 /// @DnDArgument : "value" "temp-1"
 /// @DnDArgument : "var" "global.lightlevel"
 global.lightlevel = temp-1;
+
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 7A417850
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)audio_play_sound(hit_darkness_sfx_final,10,false);"
+/// @description Execute Code
+audio_play_sound(hit_darkness_sfx_final,10,false);
