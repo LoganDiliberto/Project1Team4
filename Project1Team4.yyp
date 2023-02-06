@@ -6,6 +6,7 @@
     {"id":{"name":"objFallingLight","path":"objects/objFallingLight/objFallingLight.yy",},"order":9,},
     {"id":{"name":"objWinScreen","path":"objects/objWinScreen/objWinScreen.yy",},"order":19,},
     {"id":{"name":"mainMenuMusic","path":"objects/mainMenuMusic/mainMenuMusic.yy",},"order":21,},
+    {"id":{"name":"winSFX","path":"objects/winSFX/winSFX.yy",},"order":25,},
     {"id":{"name":"titleScreenSprite","path":"sprites/titleScreenSprite/titleScreenSprite.yy",},"order":6,},
     {"id":{"name":"EndScreen","path":"rooms/EndScreen/EndScreen.yy",},"order":2,},
     {"id":{"name":"objVision","path":"objects/objVision/objVision.yy",},"order":3,},
