@@ -3,8 +3,8 @@
   "resourceVersion": "1.0",
   "name": "objSmallBackground",
   "spriteId": {
-    "name": "sprSmallBackground",
-    "path": "sprites/sprSmallBackground/sprSmallBackground.yy",
+    "name": "sprLevel1B",
+    "path": "sprites/sprLevel1B/sprLevel1B.yy",
   },
   "solid": false,
   "visible": true,
